@@ -1,0 +1,1 @@
+ps H -o pid,lwp,psr,comm |grep mlzero
