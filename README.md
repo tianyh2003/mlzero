@@ -1,5 +1,5 @@
 # MLZero
-This is an implementation of alphazero for playing 8x8 gomoku. We can get a great model in several hours.
+This is an implementation of alphazero for playing 8x8 gomoku. You can get a great model in several hours.
 The original repository exists at https://gitee.com/tianyh2003/mlzero
 
 # Requirements
